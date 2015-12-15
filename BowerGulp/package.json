@@ -1,0 +1,9 @@
+{
+  	"name": "TalkitBRSample",
+  	"version": "1.0.0",
+  	"devDependencies": {
+	  	"gulp": "3.9.0",
+		"gulp-less": "3.0.5",
+		"gulp-webserver": "*"
+  	}
+}
