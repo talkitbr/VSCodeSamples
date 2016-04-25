@@ -1,0 +1,19 @@
+{
+    "name": "mongodb-ts",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "npm run tsc:w",    
+        "tsc": "tsc",
+        "tsc:w": "tsc -w",
+        "typings": "typings",
+        "postinstall": "typings install" 
+    },
+    "dependencies": {
+        "mongodb": "2.1.16",
+        "mongoose": "4.4.12"
+    },
+    "devDependencies": {
+        "typescript": "1.8.10",
+        "typings": "0.7.12"
+    }
+}
