@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "name": "mochasample",
+  "scripts": {
+    "test": "karma start"
+  },
+  "devDependencies": {      
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "express": "^4.14.0",    
+    "mocha": "^2.5.3",
+    "chai": "^3.5.0",
+    "karma": "^1.1.0",    
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-html-detailed-reporter": "^1.1.8",
+    "karma-mocha": "^1.1.1",
+    "karma-sinon-chai": "^1.2.2" 
+  }
+}

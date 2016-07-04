@@ -1,0 +1,13 @@
+{
+    "name": "protractorsample", 
+    "version": "1.0.0",
+    "scripts": {
+        "protractor": "protractor conf.js",
+        "webdriver:update": "webdriver-manager update",
+        "webdriver:start": "webdriver-manager start"
+    },
+    "devDependencies": {
+        "protractor": "2.5.1",
+        "jasmine": "^2.4.1"
+    }
+}

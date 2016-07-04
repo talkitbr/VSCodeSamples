@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "name": "mochasample",
+    "main": "default.html",
+    "moduleType": [
+        "node"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": "latest",
+        "angular": "angularjs#~1.4.8",
+        "angular-mocks": "~1.4.8"
+    }
+}
